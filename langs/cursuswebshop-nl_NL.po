@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cursuswebshop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-06 14:42+0100\n"
+"PO-Revision-Date: 2011-07-06 14:42+0100\n"
+"Last-Translator: Luuk Verhoeven <luuk@sebsoft.nl>\n"
+"Language-Team: sebsoft.nl <luuk@sebsoft.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: D:\\Dropbox\\REPOS\\cursus_webshop_modules\\WP\\wp-content\\plugin\\cursuswebshop\n"
+"X-Poedit-Language: dutch\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: config.php:11
+msgid "firstname"
+msgstr "Voornaam"
+
+#: config.php:12
+msgid "lastname"
+msgstr "Achternaam"
+
+#: config.php:13
+msgid "address"
+msgstr "Adres"
+
+#: config.php:14
+msgid "organisation"
+msgstr "Organisatie"
+
+#: config.php:15
+msgid "postalcode"
+msgstr "Postcode"
+
+#: config.php:16
+msgid "city"
+msgstr "Plaats"
+
+#: config.php:17
+msgid "email"
+msgstr "E-mail:"
+
+#: config.php:23
+msgid "cw_display_name"
+msgstr "Webshop"
+
+#: cursuswebshop.php:68
+#: cursuswebshop.php:197
+#: cursuswebshop_old.php:421
+#: cursuswebshop_old.php:433
+msgid "shopping_cart"
+msgstr "Winkelwagen"
+
+#: cursuswebshop.php:165
+msgid "Sorry, but you can't run this plugin, it requires PHP 5.2 or higher."
+msgstr "Sorry, but you can't run this plugin, it requires PHP 5.2 or higher."
+
+#: cursuswebshop.php:186
+#: cursuswebshop_old.php:304
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Geen toestemming"
+
+#: cursuswebshop.php:234
+#: cursuswebshop.php:409
+msgid "We dont have found a product"
+msgstr "We hebben geen producten gevonden in deze categorie"
+
+#: cursuswebshop_old.php:92
+msgid "baseurl-empty"
+msgstr "Er is geen hoofd url ingevuld"
+
+#: admin/options.php:58
+msgid "Save Changes"
+msgstr "Instellingen opslaan"
+
+#: classes/cart.php:34
+msgid "count"
+msgstr "Aantal"
+
+#: classes/cart.php:37
+msgid "desc"
+msgstr "Omschrijving"
+
+#: classes/cart.php:40
+msgid "1_item_price"
+msgstr "Prijs per stuk"
+
+#: classes/cart.php:43
+msgid "total"
+msgstr "Totaal"
+
+#: classes/cart.php:109
+msgid "Couponcode used getting extra "
+msgstr "U heeft een couponcode gebruikt. U krijgt "
+
+#: classes/cart.php:109
+msgid " % procent sales."
+msgstr "% procent extra korting."
+
+#: classes/cart.php:139
+msgid "refresh"
+msgstr "Vernieuwen"
+
+#: classes/cart.php:139
+msgid "refresh cart"
+msgstr "Werk bij"
+
+#: classes/cart.php:145
+msgid "subtotal"
+msgstr "Subtotaal"
+
+#: classes/cart.php:152
+msgid "vatamount"
+msgstr "BTW"
+
+#: classes/cart.php:159
+#: classes/cart.php:296
+msgid "totalamount"
+msgstr "Totaalbedrag"
+
+#: classes/cart.php:163
+msgid "use a actioncode"
+msgstr "Gebruik een couponcode"
+
+#: classes/cart.php:168
+msgid "shoppinggoback"
+msgstr "Verder winkelen"
+
+#: classes/cart.php:171
+msgid "update"
+msgstr "Werk bij"
+
+#: classes/cart.php:172
+msgid "gotocheckout"
+msgstr "Bestelling afronden"
+
+#: classes/cart.php:181
+msgid "noitemsincart"
+msgstr "Zijn nog geen producten toegevoegd."
+
+#: classes/cart.php:210
+msgid "Enter your couponcode"
+msgstr "Couponcode"
+
+#: classes/cart.php:214
+msgid "Please enter your couponcode"
+msgstr "Voer hier uw couponcode in."
+
+#: classes/cart.php:220
+msgid "Select your product from the list where your couponcode is for."
+msgstr "Selecteer het product uit de lijst waar u de couponcode voor heeft. "
+
+#: classes/cart.php:291
+msgid "products"
+msgstr "Artikel(en)"
+
+#: classes/cart.php:297
+msgid "cartcontent"
+msgstr "Bekijk inhoud"
+
+#: classes/cart.php:303
+msgid "noitemsincartsmal"
+msgstr "Geen artikelen."
+
+#: classes/cart.php:460
+msgid "Your code gives you "
+msgstr "De code geeft je "
+
+#: classes/cart.php:460
+msgid " % procent discount."
+msgstr "% procent korting."
+
+#: classes/cart.php:471
+#: classes/cart.php:477
+msgid "Code exists but not valid"
+msgstr "De code bestaat. Maar is op dit moment nog niet geldig of is verlopen."
+
+#: classes/cart.php:482
+msgid "Wrong code"
+msgstr "Verkeerde code"
+
+#: classes/cart.php:487
+msgid "some fields where empty"
+msgstr "Er ontbreken gegevens die nodig we nodig hebben."
+
+#: classes/cart.php:492
+msgid "No access"
+msgstr "Geen toegang tot deze pagina"
+
+#: classes/import.class.php:104
+msgid "error converting to array make sure the base url is correct:"
+msgstr "error converting to array make sure the base url is correct:"
+
+#: classes/shop.php:54
+msgid "noproducts"
+msgstr "Geen omschrijving gevonden"
+
+#: classes/shop.php:68
+msgid "education"
+msgstr "Opleiding"
+
+#: classes/shop.php:69
+msgid "category"
+msgstr "Categorie"
+
+#: classes/shop.php:88
+msgid "addtocart"
+msgstr "Nu bestellen"
+
+#: classes/shop.php:100
+msgid "noitemsinshop"
+msgstr "Er zijn geen producten gevonden"
+
+#: classes/shop.php:114
+msgid "all-cat"
+msgstr "Alle categorieën"
+
+#: classes/shop.php:126
+msgid "Personal information"
+msgstr "Persoonlijke informatie"
+
+#: classes/shop.php:130
+msgid "Payment"
+msgstr "Betalingsmethode "
+
+#: classes/shop.php:157
+msgid "comments"
+msgstr "Reacties"
+
+#: classes/shop.php:161
+msgid "norating"
+msgstr "Nog niet beoordeeld"
+
+#: classes/shop.php:225
+msgid "by"
+msgstr "Bij"
+
+#: classes/shop.php:225
+msgid "or more."
+msgstr "of meer."
+
+#: classes/shop.php:377
+msgid "newsletter"
+msgstr "Nieuwsbrief ontvangen"
+
+#: classes/shop.php:381
+msgid "wants_report"
+msgstr "Een status report"
+
+#: classes/shop.php:390
+#: classes/shop.php:536
+msgid "goback"
+msgstr "Ga terug"
+
+#: classes/shop.php:391
+#: classes/shop.php:537
+msgid "continuecheckout"
+msgstr "Ga verder"
+
+#: classes/shop.php:526
+msgid "paymentmethod"
+msgstr "Betalingsmethode"
+
+#: classes/shop.php:672
+#: classes/shop.php:779
+msgid "thankyouforyourpurchase"
+msgstr "Bedankt voor uw bestelling"
+
+#: classes/shop.php:674
+msgid "paidokcomments"
+msgstr "U zult spoedig de factuur per e-mail ontvangen.<br/>Er is echter ook een mail verstuurd met inloggegevens."
+
+#: classes/shop.php:675
+msgid "gobacktoshop"
+msgstr "Terug naar shop"
+
+#: classes/shop.php:679
+msgid "notcompletedyet"
+msgstr "Betaling is niet voltooid."
+
+#: classes/shop.php:681
+msgid "nopaycomments"
+msgstr "De bestelling is geannuleerd of niet voltooid u kunt dit procces overnieuw starten door de bestelling nogmaals te doen."
+
+#: classes/shop.php:776
+msgid "orderwillbedeliveredafterconfirmedpayment"
+msgstr "De activeringscodes worden per e-mail verstuurd nadat de betaling is ontvangen.<br/><br/>Wij verzoeken u vriendelijk om bovenstaande totaal bedrag zo snel mogelijk over te maken op bankrekening <strong>%s</strong> ten name van %s <br/> <br/>Gelieve dit nummer: <strong> %s </strong>te vermelden bij uw betaling."
+
+#: classes/shop.php:784
+msgid "bankaccountdata"
+msgstr "Extra bankgegevens"
+
+#: classes/shop.php:786
+msgid "bankaccountname"
+msgstr "Bank"
+
+#: classes/shop.php:787
+msgid "bankaccountnumber"
+msgstr "Bankrekeningnummer"
+
+#: classes/shop.php:788
+msgid "bankiban"
+msgstr "IBAN-nummer"
+
+#: classes/shop.php:789
+msgid "bankbic"
+msgstr "BIC-nummer"
+
+#: classes/shop.php:796
+msgid "paymentnotpossibleduetoerror"
+msgstr "Betaling niet mogelijk door een fout!"
+
+#: classes/shop.php:798
+msgid "pleasetryagainlater"
+msgstr "Probeer later nog eens"
+
+#~ msgid "no-product-found"
+#~ msgstr "Geen producten gevonden"

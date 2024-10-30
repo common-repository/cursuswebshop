@@ -1,0 +1,57 @@
+#cw_cartdisplay{width:100%;font-size:12px;padding:0;margin:0}
+ul#cw_productlist{width:100%;list-style:none; margin: 0;padding: 0;}
+ul#cw_productlist li{float:left;margin:10px 0;}
+#cw_productdescription{margin:10px 0;width:480px;margin: 10px 0;padding: 10px;}
+#cw_addtocart form input[type=text]{width:30px}
+#cw_bottom_price{border-top: 2px solid #AAAAAA;width: 100%;float:left;padding: 10px 0 10px 0;}
+#cw_bottom_price input[type=text]{border: 1px solid #AAAAAA;}
+#cw_priceinfo{float:left;width:430px;margin-left:10px;}
+#cw_addtocart{float:right;margin-right:10px;}
+ul.cw_acpic{margin:0;padding:0;float:left;list-style:none;overflow:hidden;padding:0 10px;}
+ul.cw_acpic li{float:left;padding:10px;text-align:center;}
+ul.cw_acpic li h3{color:#B83E13;font-size:12px;font-weight:normal;}
+.cw_rating{margin:10px 0 0 10px;width:160px;height:16px;font-size:10px;}
+a.cw_commentcount{color:#B83E13;font-size:12px;margin:10px 0 0 10px;}
+.coursereview{float:left;}
+.coursereview ul{margin:0;padding:0;width:100%;list-style:none;border-bottom:1px solid #AAAAAA;float:left;}
+.coursereview ul li{border-top:1px solid #AAAAAA;margin:5px 0 !important;width:100%;}
+.cw_review_holder{width:100%;clear:both;height:20px;margin-top:5px;}
+.cw_review_holder .cw_rating{margin:0 0 0 10px;float:left;}
+.cw_review_holder .cw_time{float:right;font-size:11px;margin-right:10px}
+.coursereview .cw_review{float:left;width:600px;padding:10px;}
+#cw_cartdisplaytable{width:100%;}
+#cw_cartdisplaytable tr td{padding:0;margin:0}
+#cw_cartdisplaytable input[type=text]{width:30px;border: 1px solid #AAAAAA;}
+/*betalen*/
+#cw_checkoutformdisplaytable{width:100%;line-height:20px;border:none !important;font-size:12px}
+#cw_checkoutformdisplay{width:100%line-height:20px;border:none !important;font-size:12px} 
+#cw_checkoutformdisplaytable tr td{padding:0;margin:0;border:none;padding:2px 0}
+#cw_checkoutformdisplay tr td{padding:0;margin:0;border:none;padding:2px 0}
+#cw_cartdisplaytable{border:none !important;}
+#cw_cartdisplaytable tr td{padding:0;margin:0;border:none;padding:2px 0}
+#cw_shoppingcarticon{width:100%;text-align:right;}
+/* --- ERRORS --- */
+#shoppingcarticon{ margin: -49px 0 0 156px; position: absolute;}
+#sidebar ul h2 a{color:white !important;text-decoration:underline;}
+.cw_inputfielderror{background:#FFE6E7 !important;}
+#cw_top_title{background:url(/wp-content/plugins/cursuswebshop/images/bar.png) repeat-x scroll 0 0;padding:0;width:100%;margin:0;overflow:hidden;height:30px;vertical-align: middle;line-height: 30px;}
+#cw_top_title h1 a{text-decoration:none;color:#fff;height:30px;vertical-align: middle;line-height: 30px;padding:0;display:block;}
+#cw_top_title h1{display:block;font-weight:bold;font-family: 'Trebuchet MS',verdana,sans-serif;color:#fff;font-size:14px;margin:0;margin-left:14px;padding:0;height:30px;vertical-align: middle;line-height: 30px;}
+.cw_breadcrumbs{font-size: 10px;list-style:none;width:100%;overflow:hidden;margin:0 0 10px 0 !important;padding:0;border-bottom:1px solid #797979;}
+.cw_breadcrumbs li{float:left;}
+.cw_breadcrumbs li a{text-decoration:none;color:#797979;}
+.cw_breadcrumbs li.active a{text-decoration:underline;color:#797979;font-weight:bold}
+/*discount*/
+ul.cw_discount_rules{clear:both;list-style:none;padding:0; margin:0 0 0 10px}
+ul.cw_discount_rules li{float:left;width:100%;margin:0;padding:0;line-height:18px}
+span.cw_discount_1{font-weight:bold;text-decoration: line-through;}
+.cw_price_old{font-weight:bold;text-decoration: line-through;}
+span.cw_discount_2{margin-left:10px;font-size:17px}
+#cw_dialog{display:none;}
+.ui-dialog .ui-state-error { padding: .3em; }
+.validateTips { border: 1px solid transparent; padding: 0.3em; }
+a.ui-button{color:#000;}
+.cw_button{font-size:10px !important;}
+.cw_count{font-size:10px !important;}
+.cw_form_jquery input{font-size:10px !important;}
+.cw_small{font-size:10px;font-weight:normal;}
